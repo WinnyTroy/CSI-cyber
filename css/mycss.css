@@ -1,0 +1,88 @@
+#nav {
+    line-height: 30px;
+    background-color: aqua;
+    height: 300px;
+    width: 100px;
+    float: left;
+    padding: 5px;
+}
+#about {
+    width: 350px;
+    float: right;
+    padding: 10px;
+    background-image: url(../img/images%20(5).jpg)
+}
+#footer {
+    background-color: black;
+    color: white;
+    clear: both;
+    text-align: center;
+    padding: 5px;
+}
+
+/*nav*/
+
+header {
+    align-content: center;
+    color: blue;
+    text-align: center;
+    background-size: 100%;
+    background-color: burlywood;
+    margin: 0px;
+    top: 0px;
+}
+#landing {
+    width: 1350px;
+}
+
+/* SECTION AREA */
+
+#details {
+    text-align: center;
+    background-color: burlywood;
+    margin-top: 10px;
+}
+
+/* SECTION CLASSES */
+
+.info {
+    display: inline-block;
+    float: left;
+    width: 780px;
+    border: 3px dotted black;
+    padding: 50px;
+    height: 350px;
+    background-color: burlywood;
+    margin-bottom: 50px;
+}
+.points {
+    display: inline-block;
+    float: right;
+    border: 3px dotted black;
+    width: 420px;
+    text-align: center;
+    height: 450px;
+    margin-bottom: 50px;
+}
+.points img {
+    width: 420px;
+    height: 450px;
+}
+footer {
+    padding-top: 30px;
+    margin-top: 0px;
+    height: 20px;
+    background-color: burlywood;
+}
+#maps {
+    border-style: inset;
+    width: 1350px;
+    height: 300px;
+    display: inline-block;
+}
+#contacts {
+    padding-top: 50px;
+}
+body {
+    background-color: burlywood;
+}
